@@ -166,7 +166,7 @@ h4.subTitle {
   color: var(--primary-blue);
   position: relative;
   padding-bottom: 12px;
-  display: inline-block;
+  /* display: inline-block; */
 }
 
 /* h4.subTitle::after {
